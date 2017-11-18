@@ -1,7 +1,7 @@
-# math
+# Math
 
-Functions:
-Greatest commond divisor
-Fiboinacci
-Function interpolation
- - linear
+## Functions:
+- Greatest common divisor
+- Fibonacci
+- Function interpolation
+-- linear
